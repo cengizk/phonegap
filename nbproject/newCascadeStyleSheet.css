@@ -1,12 +1,7 @@
-/* 
-    Document   : newCascadeStyleSheet
-    Created on : 25.06.2014, 17:08:42
-    Author     : kobalc1
-    Description:
-        Purpose of the stylesheet follows.
-*/
-
-root { 
-    display: block;
+.ueberschrift{
+    
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    background-color: #3333ff;
+    color: #ffffff;
 }
-
